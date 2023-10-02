@@ -20,5 +20,4 @@ public class Palindrome {
         String s = in.nextLine();
         System.out.println(isPalindrome(s));
     }
-
 }
